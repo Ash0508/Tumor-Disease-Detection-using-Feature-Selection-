@@ -54,4 +54,13 @@ The results section presents the performance of each machine learning algorithm 
 The project demonstrates that feature selection techniques like Mutual Information and Chi-Square Test can significantly enhance the performance of machine learning models in tumor detection. By selecting the most informative features, we can improve the accuracy and reliability of the predictions.
 
 
+## References
+- [Mutual Information](https://en.wikipedia.org/wiki/Mutual_information)
+- [Chi-Square Test](https://en.wikipedia.org/wiki/Chi-squared_test)
+- [Decision Trees](https://en.wikipedia.org/wiki/Decision_tree_learning)
+- [Random Forests](https://en.wikipedia.org/wiki/Random_forest)
+- [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression)
+- [Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
+- [Support Vector Machine](https://en.wikipedia.org/wiki/Support_vector_machine)
+- [K-Nearest Neighbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
 
